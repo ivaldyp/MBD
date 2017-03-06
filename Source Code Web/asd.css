@@ -1,0 +1,32 @@
+<style type=text/css>
+#a {border-style: none;}
+#b {border-style: none; background-color: #648967;}
+#L1:link {font-size: 25;}
+#L1:hover {font-size: 25;}
+#L1:active {font-size: 25;}
+#Bg {background-image: url(magnolia.png);}
+
+#X:link {color: #7edce5; font-size:13;}
+#X:hover {color: #7edce5; font-size:13;}
+#X:active {color: #7edce5; font-size:13;}
+#X:visited {color: #7edce5; font-size:13;}
+#X:visited:hover {color: #7edce5; font-size:13;}
+#X:visited:active {color: #7edce5; font-size:13;}
+
+a:link {color:#4FDD59; text-decoration: none;}
+a:hover {color:#1FED39; text-decoration: underline;}
+a:active {color:#F23D59; text-decoration: none;}
+a:visited {color:#4F4DF9; text-decoration: none;}
+th {    background-color: #ead5c8;
+    color: white;}
+h1{font-size:55px;color:#4a3ff1;font-family: "Lucida Handwriting";}
+#c {font-size: 12; font-family: constantia; border-color: green; background-color: #e9f8fa;}
+#d {background-color: #648967;}
+#e {background-color: #c3e0c5;}
+#p02 {
+    font-size: 45px;color:pink;
+}
+#p01 {
+    font-size: 55px;color:red;
+}
+</style>
